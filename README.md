@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @senzukii
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning Python, UML , Java , HTML, CSS
+- 📫 How to reach me layeuxtheo39@gmail.com
+- ⚡ Fun fact: I'm shit at dev
