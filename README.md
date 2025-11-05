@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1679071409849487361/UV32_HJe_400x400.png" height="40" alt="anytype logo"  />
+  <img width="12" />
 </div>
 
 ###
