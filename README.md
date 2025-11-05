@@ -7,7 +7,7 @@
 
 <h4 align="center">My name is senzuki and I'm a Computer Sciences Student, from Belgium.</h4>
 <div align="center">
-  <img src="https://gallery.yopriceville.com/downloadfullsize/send/19254" height="40" alt="belgian flag"  />
+  <img src="https://imgur.com/a/MAK6xg2" height="40" alt="belgian flag"  />
   <img width="12" />
 </div>
 
