@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/V6xDMNG.jpeg"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtvY2Ztb3duYjA4aWx5bzVrdjRyNXpkMDQ3cmpyeTBvemlibmtkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"  />
 </div>
 
 ###
 
-<h4 align="center">My name is Xamflex and I'm a CS Student, from Belgium.</h4>
+<h4 align="center">My name is senzuki and I'm a Computer Sciences Student, from Belgium.</h4>
 
 ###
 
