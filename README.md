@@ -6,6 +6,10 @@
 ###
 
 <h4 align="center">My name is senzuki and I'm a Computer Sciences Student, from Belgium.</h4>
+<div align="center">
+  <img src="https://gallery.yopriceville.com/downloadfullsize/send/19254" height="40" alt="belgian flag"  />
+  <img width="12" />
+</div>
 
 ###
 
@@ -42,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://pbs.twimg.com/profile_images/1679071409849487361/UV32_HJe_400x400.png" height="40" alt="anytype logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/ios_filled/512/40C057/cisco-packet-tracer.png" height="40" alt="cisco pt logo"  />
   <img width="12" />
 </div>
 
