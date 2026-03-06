@@ -1,64 +1,27 @@
+# Salut, moi c'est Théo ! 👋
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtvY2Ztb3duYjA4aWx5bzVrdjRyNXpkMDQ3cmpyeTBvemlibmtkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"  />
-</div>
+> **Développeur Fullstack & Réseaux** | Haute Ecole en Hainaut
 
-###
+---
 
-<h4 align="center">My name is senzuki and I'm a Computer Sciences Student, from Belgium.</h4>
-<div align="center">
-  <img src="https://gallery.yopriceville.com/downloadfullsize/send/19254" height="40" alt="belgian flag"  />
-  <img width="12" />
-</div>
+### 🛠 Stack Technique
 
-###
+| Domaine | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Database & Ops** | ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) **Packet Tracer** |
 
-<h2 align="center">Known Languages</h2>
+---
 
-###
+### 📜 Certifications
+* **CCNA 1 :** Introduction to Networks
+* **CCNA 2 :** Switching, Routing, and Wireless Essentials
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-png-transparent.png" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-</div>
+---
 
-###
+### 📫 Me contacter
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
-<h2 align="center">Known Tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://pbs.twimg.com/profile_images/1679071409849487361/UV32_HJe_400x400.png" height="40" alt="anytype logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/ios_filled/512/40C057/cisco-packet-tracer.png" height="40" alt="cisco pt logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theolayeux)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:layeuxtheo39@gmail.com)
