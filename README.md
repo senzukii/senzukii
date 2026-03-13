@@ -18,6 +18,7 @@
 ---
 
 ### 📜 Certifications
+* **CCNA 0 :** Introduction to IOT
 * **CCNA 1 :** Introduction to Networks
 * **CCNA 2 :** Switching, Routing, and Wireless Essentials
 
