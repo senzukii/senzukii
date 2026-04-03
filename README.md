@@ -17,13 +17,6 @@
 
 ---
 
-### Certifications
-* **CCNA 0 :** Introduction to IOT
-* **CCNA 1 :** Introduction to Networks
-* **CCNA 2 :** Switching, Routing, and Wireless Essentials
-
----
-
 ### Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theolayeux)
